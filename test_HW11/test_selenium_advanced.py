@@ -187,5 +187,3 @@ class TestFiles:
         expected_file = os.path.join(download, "upload.txt")
         assert os.path.exists(expected_file)
 
-
-
